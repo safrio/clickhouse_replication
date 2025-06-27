@@ -84,3 +84,4 @@ clickhouse03 :) SELECT * FROM company_db.events;
 │ 2021-01-02 08:10:00 │ 100 │ view │
 └─────────────────────┴─────┴──────┘
 ```
+
